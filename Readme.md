@@ -79,4 +79,4 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avditor&layout=compact&theme=github_dark" width="50%"/>
 
-</div>
+</div
