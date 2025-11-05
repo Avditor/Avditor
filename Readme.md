@@ -70,7 +70,7 @@
 
 ## GitHub Stats
 
-<div align="center"
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Avditor&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="50%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avditor&theme=github-dark-blue" width="50%" />
